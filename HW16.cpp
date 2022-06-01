@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
-//Task 11.5(ã)
+//Task 11.5(g)
 typedef struct poly_coef {
     double coef;
     unsigned deg;
